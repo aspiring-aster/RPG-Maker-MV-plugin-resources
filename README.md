@@ -2,6 +2,7 @@
 - This is a small collection of guides for RPG MV plugin making and OMORI mod making(Go to the last one if you just want to see basic OMORI modding such as changing assets)
 - I'll try to include and add basic plugin scripts that I make for example code for plugins
 - If you don't know JavaScript and want to start learning [go here!](https://www.w3schools.com/js/)
+- For basic modding the first and last links should be all you need!
 
 ### Learning resources 
 
